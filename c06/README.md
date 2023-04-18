@@ -1,0 +1,1 @@
+<img src="https://github.com/mucahitcakmak/42-Piscine/blob/master/_ss/c06.png">
