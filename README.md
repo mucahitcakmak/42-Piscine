@@ -1,7 +1,7 @@
 # 42 Istanbul Piscine
 
-<img src="https://github.com/mucahitcakmak/42-Piscine/blob/master/_ss/_profile.png"  width="50%" height="30%">
-<img src="https://github.com/mucahitcakmak/42-Piscine/blob/master/_ss/_levelbar.png"  width="90%" height="30%">
+![alt text](https://github.com/mucahitcakmak/42-Piscine/blob/master/_ss/_profile.png)
+![alt text](https://github.com/mucahitcakmak/42-Piscine/blob/master/_ss/_levelbar.png)
 
 shell00 | shell01 |
 --- | --- |
